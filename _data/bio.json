@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Erhan Huang",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "Erhan@hawaii.edu",
+    "phone": "",
+    "website": "https://github.com/Erhan-Huang23/Erhan-Huang23.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Erhan-Huang", "url": "https://github.com/Erhan-Huang23/Erhan-Huang23.github.io" },
+      { "network": "linkedin", "username": "Erhan-Huang", "url": "https://www.linkedin.com/in/erhan-huang-627224347/" },
+      { "network": "twitter", "username": "mollymal", "url": "" },
+      { "network": "instagram", "username": "molly", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Software Engineering" },
     { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
