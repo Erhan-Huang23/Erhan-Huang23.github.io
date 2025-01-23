@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "Erhan-Huang", "url": "https://github.com/Erhan-Huang23/Erhan-Huang23.github.io" },
       { "network": "linkedin", "username": "Erhan-Huang", "url": "https://www.linkedin.com/in/erhan-huang-627224347/" },
-      { "network": "twitter", "username": "mollymal", "url": "" },
-      { "network": "instagram", "username": "molly", "url": "" }
+
     ]
   },
   "interests": [
