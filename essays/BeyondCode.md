@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Lessons in Software Engineering"
+title: "BeyondCode:Lessons in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-22
 published: true
