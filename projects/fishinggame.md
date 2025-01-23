@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishingame.jpg.jpg
+image: img/fishingame.jpg
 title: "Two-player fishing game"
 date: 2024
 published: true
