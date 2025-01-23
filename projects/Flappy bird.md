@@ -6,7 +6,8 @@ title: "Flappy bird"
 date: 2024
 published: true
 labels:
-  - java
+  - Python
+  - Pygame
 summary: "In this project, I developed a small game using Python called Flappy Bird, this is a famous project for python beginner.."
 ---
 
