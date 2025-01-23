@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Plane war.jpg
-title: "Two-player fishing game"
+title: "Plane war"
 date: 2024
 published: true
 labels:
