@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "How can Smart Questions foster Effective Software Engineering Communication"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-29
+date: 2025-01-29
 published: true
 labels:
   - Software engineering
