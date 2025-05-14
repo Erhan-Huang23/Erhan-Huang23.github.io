@@ -57,30 +57,5 @@
     "Improved user experience by adding modal popups and optimizing item detail rendering."
   ]
 }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "2",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": ""
-    }
   ]
 }
