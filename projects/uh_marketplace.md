@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/raw.png
+image: img/uhmarketplace.png
 title: "UH Marketplace"
 date: 2025
 published: true
