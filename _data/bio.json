@@ -37,7 +37,7 @@
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-09-01",
-      "endDate": "",
+      "endDate": "-",
       "courses": [
       ]
     }
@@ -51,8 +51,6 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        ""
       ]
     },
     {
@@ -63,7 +61,6 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        ""
       ]
     }
   ],
@@ -76,8 +73,6 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        ""
       ]
     },
     {
@@ -88,9 +83,6 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "",
-        "",
-        ""
       ]
     }
   ],
@@ -110,7 +102,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
