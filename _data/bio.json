@@ -44,25 +44,19 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "University of Hawaii",
+      "position": "UH Marketplace Project",
+      "website": "https://uh-marketplace.github.io/",
+      "startDate": "2025-03-01",
+      "endDate": "2025-05-01",
+      "summary": "Collaborated with a team of 5 to build a web application for students to buy, sell, or trade items using modern full-stack technologies.",
       "highlights": [
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
+    "Implemented the Explore page with dynamic item filtering and database integration using Prisma and PostgreSQL.",
+    "Built the Favorites system with API routes to persist favorite items by authenticated users.",
+    "Used Next.js, TypeScript, and React-Bootstrap to develop responsive and modular UI components.",
+    "Improved user experience by adding modal popups and optimizing item detail rendering."
+  ]
+}
   ],
   "volunteer": [
     {
@@ -74,25 +68,9 @@
       "summary": "",
       "highlights": [
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
     {
       "title": "",
       "date": "",
