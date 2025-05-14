@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhmarketplace/uhmarketplace.png
+image: img/rew.png
 title: "UH Marketplace"
 date: 2025
 published: true
@@ -27,7 +27,7 @@ Throughout this process, I used React hooks and Bootstrap to maintain a clean an
     <img src="../img/favoriteList.png" alt="Favorites Page" width="500">
     <p><em>Favorites Page Showing Hearted Items</em></p>
   </div>
-</div>
+
 
 
 <hr>
