@@ -12,8 +12,6 @@ labels:
 ---
 
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/aireflection.jpg">
-
 <h2>Not Just Autocomplete: The Real Impact of AI on My Coding Journey</h2>
 
 Artificial Intelligence (AI) is revolutionizing education by providing students with tools and methodologies to enhance learning and problem-solving. In software engineering, AI offers opportunities to accelerate coding, debugging, and understanding complex concepts. During ICS 314, I explored various AI tools, including ChatGPT, Bard, and GitHub UH marketplace which helped me tackle challenges in writing code, understanding new concepts, and debugging. This essay reflects on my experiences using AI throughout the course, examining how it shaped my learning and application of software engineering principles.
